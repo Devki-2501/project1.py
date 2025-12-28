@@ -55,6 +55,26 @@ This project was created as my **first Python project** to strengthen my underst
    pip install pyttsx4
 3. Clone the repository or download the code.
 4. Run the Python file:
-   python rock_paper_scissors.py
+   project1.py
+## 📚 What I Learned
 
+- Handling user input in Python  
+- Using dictionaries for decision mapping  
+- Implementing conditional logic  
+- Working with external libraries  
+- Building an interactive terminal-based application  
 
+---
+
+## 🌱 Future Improvements
+
+- Add a graphical user interface (GUI)  
+- Allow multiple rounds and score tracking  
+- Improve error handling for invalid input  
+- Add sound effects or animations  
+
+---
+
+## 🙌 Acknowledgements
+
+This project was built as part of my learning journey in Python programming.
